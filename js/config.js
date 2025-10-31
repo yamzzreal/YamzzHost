@@ -3,7 +3,7 @@ nama: "YamzzHost", // Nama Store
 profil: "./img/yamzz.jpg", // Url Profil
 banner: "./img/banner.jpg", // Url Banner 
 tentang: "YamzzHost Market adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2020. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
-alamat: "Jl. Kav Kartuka No. 03, Bekasi, Indonesia",
+alamat: "Jl. Kav Kartika No. 03, Bekasi, Indonesia",
 sosial_media: {
   email: "yamzzoffc@gmail.com", // Email
   youtube: "yamzzreal", // YouTube Username 
@@ -15,7 +15,7 @@ payment: {
   dana: "08567858991", // Payment Dana
   gopay: "08567858991", // Payment Gopay 
   ovo: "Belum Tersedia", // Payment Ovo 
-  qris: "yamzzoffc.vercel.app/indexx.html" // Url Qris
+  qris: "https://files.catbox.moe/nf7mqg.jpg" // Url Qris
 },
 telegram_api: {
   bot: "8300661133:AAGQz5BXDem3Gk6xkZ7RlspuvPawRT1ZgN0", // Token bot father
